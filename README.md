@@ -1,16 +1,7 @@
-# second_proj
+# Measure-Converter calculator 
 
-A new Flutter application.
+![1](https://user-images.githubusercontent.com/77003100/177805499-c242c610-a6ae-4fa6-aafd-88c80ad526cc.png)
+![2](https://user-images.githubusercontent.com/77003100/177805505-c42930d5-4db1-49e8-a425-251bb7c4c75c.png)
+![3](https://user-images.githubusercontent.com/77003100/177805510-cdf8a8d0-86d1-4262-8088-5d103a6e6705.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
